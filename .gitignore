@@ -1,0 +1,6 @@
+/build/
+/tsc-asm
+/examples/*.js
+/tests/cases/*.js
+/tests/.bench.ts
+/tests/.bench.js

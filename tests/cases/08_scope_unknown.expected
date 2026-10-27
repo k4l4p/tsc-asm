@@ -1,0 +1,1 @@
+tests/cases/08_scope_unknown.ts(2,1): error TS2304: Cannot find name 'y'.

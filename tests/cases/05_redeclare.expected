@@ -1,0 +1,2 @@
+tests/cases/05_redeclare.ts(1,5): error TS2451: Cannot redeclare block-scoped variable 'x'.
+tests/cases/05_redeclare.ts(2,5): error TS2451: Cannot redeclare block-scoped variable 'x'.

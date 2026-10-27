@@ -1,0 +1,4 @@
+tests/cases/24_dup_ident.ts(1,10): error TS2300: Duplicate identifier 'f'.
+tests/cases/24_dup_ident.ts(2,5): error TS2300: Duplicate identifier 'f'.
+tests/cases/24_dup_ident.ts(3,5): error TS2300: Duplicate identifier 'g'.
+tests/cases/24_dup_ident.ts(4,10): error TS2300: Duplicate identifier 'g'.

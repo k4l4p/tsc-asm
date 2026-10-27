@@ -1,0 +1,2 @@
+tests/cases/14_const.ts(1,7): error TS1155: 'const' declarations must be initialized.
+tests/cases/14_const.ts(3,1): error TS2588: Cannot assign to 'k' because it is a constant.

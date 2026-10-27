@@ -1,0 +1,1 @@
+tests/cases/11_unterminated_comment.ts(3,1): error TS1010: '*/' expected.

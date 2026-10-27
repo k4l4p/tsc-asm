@@ -1,0 +1,1 @@
+tests/cases/10_unterminated_string.ts(1,14): error TS1002: Unterminated string literal.

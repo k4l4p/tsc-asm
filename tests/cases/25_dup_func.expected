@@ -1,0 +1,5 @@
+tests/cases/25_dup_func.ts(1,10): error TS2393: Duplicate function implementation.
+tests/cases/25_dup_func.ts(2,10): error TS2393: Duplicate function implementation.
+tests/cases/25_dup_func.ts(3,10): error TS2393: Duplicate function implementation.
+tests/cases/25_dup_func.ts(5,12): error TS2393: Duplicate function implementation.
+tests/cases/25_dup_func.ts(6,12): error TS2393: Duplicate function implementation.

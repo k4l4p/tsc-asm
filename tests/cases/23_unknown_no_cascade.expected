@@ -1,0 +1,2 @@
+tests/cases/23_unknown_no_cascade.ts(2,17): error TS2304: Cannot find name 'zzz'.
+tests/cases/23_unknown_no_cascade.ts(3,3): error TS2304: Cannot find name 'zzz'.

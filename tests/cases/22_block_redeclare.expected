@@ -1,0 +1,2 @@
+tests/cases/22_block_redeclare.ts(2,7): error TS2451: Cannot redeclare block-scoped variable 'a'.
+tests/cases/22_block_redeclare.ts(7,7): error TS2451: Cannot redeclare block-scoped variable 'a'.

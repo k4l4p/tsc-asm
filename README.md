@@ -49,7 +49,7 @@ Type annotations are erased, `console.log` is left alone, and the result runs
 under Node. Diagnostics use tsc's shape:
 
 ```
-examples/hello.ts(1,5): error TS2322: Type 'string' is not assignable to type 'number'.
+file.ts(1,5): error TS2322: Type 'string' is not assignable to type 'number'.
 ```
 
 Exit code is `2` when any diagnostic is emitted, `0` otherwise.
